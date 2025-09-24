@@ -7,7 +7,7 @@ class Solution {
         }
 
         for (int i = st; i <= n; i++) {
-            temp.add(i);  
+            temp.add(i);
             backtrack(n, result, k, i + 1, temp);  
             temp.remove(temp.size() - 1);  
         }
