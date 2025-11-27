@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -66,6 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
