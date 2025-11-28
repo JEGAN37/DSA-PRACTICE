@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
