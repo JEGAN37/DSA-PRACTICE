@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
