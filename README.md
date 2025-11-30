@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0046-permutations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0344-reverse-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
