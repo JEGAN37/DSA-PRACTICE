@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
