@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0152-maximum-product-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/JEGAN37/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
